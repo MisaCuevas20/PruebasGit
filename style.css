@@ -9,7 +9,7 @@ body {
     background: white;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 10px rgba(200, 0, 0, 0.5);
     max-width: 400px;
     margin: auto;
 }
@@ -20,7 +20,7 @@ p {
     color: #555;
 }
 img {
-    max-width: 100px; /* Tamaño máximo */
+    max-width: 400px; /* Tamaño máximo */
     border-radius: 10px;
     margin-top: 10px;
 }
